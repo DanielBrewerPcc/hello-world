@@ -13,7 +13,9 @@ public class HelloWorld
     {
         System.out.println("This is the HelloWorld project by Daniel Brewer. ");
         System.out.println("Hello World is a project for Walter Lara's CIS 233J class.");
-
+        System.out.println("");
+        System.out.println("The due date is Monday 2017-07-24");
+        
     }
 }
 
